@@ -1,0 +1,15 @@
+D:\01 - TODOS OS MEUS ESTUDOS\BancoHDevBetter\BancoHDevBetterApp\bin\Debug\net6.0\BancoHDevBetterApp.exe
+D:\01 - TODOS OS MEUS ESTUDOS\BancoHDevBetter\BancoHDevBetterApp\bin\Debug\net6.0\BancoHDevBetterApp.deps.json
+D:\01 - TODOS OS MEUS ESTUDOS\BancoHDevBetter\BancoHDevBetterApp\bin\Debug\net6.0\BancoHDevBetterApp.runtimeconfig.json
+D:\01 - TODOS OS MEUS ESTUDOS\BancoHDevBetter\BancoHDevBetterApp\bin\Debug\net6.0\BancoHDevBetterApp.dll
+D:\01 - TODOS OS MEUS ESTUDOS\BancoHDevBetter\BancoHDevBetterApp\bin\Debug\net6.0\BancoHDevBetterApp.pdb
+D:\01 - TODOS OS MEUS ESTUDOS\BancoHDevBetter\BancoHDevBetterApp\obj\Debug\net6.0\BancoHDevBetterApp.csproj.AssemblyReference.cache
+D:\01 - TODOS OS MEUS ESTUDOS\BancoHDevBetter\BancoHDevBetterApp\obj\Debug\net6.0\BancoHDevBetterApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\01 - TODOS OS MEUS ESTUDOS\BancoHDevBetter\BancoHDevBetterApp\obj\Debug\net6.0\BancoHDevBetterApp.AssemblyInfoInputs.cache
+D:\01 - TODOS OS MEUS ESTUDOS\BancoHDevBetter\BancoHDevBetterApp\obj\Debug\net6.0\BancoHDevBetterApp.AssemblyInfo.cs
+D:\01 - TODOS OS MEUS ESTUDOS\BancoHDevBetter\BancoHDevBetterApp\obj\Debug\net6.0\BancoHDevBetterApp.csproj.CoreCompileInputs.cache
+D:\01 - TODOS OS MEUS ESTUDOS\BancoHDevBetter\BancoHDevBetterApp\obj\Debug\net6.0\BancoHDevBetterApp.dll
+D:\01 - TODOS OS MEUS ESTUDOS\BancoHDevBetter\BancoHDevBetterApp\obj\Debug\net6.0\refint\BancoHDevBetterApp.dll
+D:\01 - TODOS OS MEUS ESTUDOS\BancoHDevBetter\BancoHDevBetterApp\obj\Debug\net6.0\BancoHDevBetterApp.pdb
+D:\01 - TODOS OS MEUS ESTUDOS\BancoHDevBetter\BancoHDevBetterApp\obj\Debug\net6.0\BancoHDevBetterApp.genruntimeconfig.cache
+D:\01 - TODOS OS MEUS ESTUDOS\BancoHDevBetter\BancoHDevBetterApp\obj\Debug\net6.0\ref\BancoHDevBetterApp.dll
