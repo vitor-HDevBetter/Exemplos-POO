@@ -21,6 +21,7 @@ namespace BancoHDevBetterApp
 
         public double Sacar(double valor)
         {
+
             if (Saldo == 0)
                 throw new ArgumentException("Você não tem valor para sacar !");
 

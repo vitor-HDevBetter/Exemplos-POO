@@ -10,7 +10,7 @@ namespace BancoHDevBetterApp
 
         }
 
-        public Guid Id { get; set; }
+        public Guid Id { get; set; } = Guid.NewGuid();
         public string Nome { get; set; }
         public int QtdConsultorias { get; set; }
 

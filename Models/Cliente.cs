@@ -16,7 +16,7 @@ namespace BancoHDevBetterApp
         public override double CalcularJurosEmprestimo()
         {
             if (Saldo < 10000)
-                throw new ArgumentException("Voce nao tem saldo suficiente para fazer emprestimo");
+                throw new ArgumentException("Voce não tem saldo suficiente para fazer emprestimo");
 
             return ValorEmprestimo * JurosEmprestimo / 100;
         }
